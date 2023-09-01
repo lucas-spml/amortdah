@@ -2161,7 +2161,7 @@ ol {
 
 .hero-area .hero-content h1 {
   font-weight: 700;
-  font-size: 38px;
+  font-size: 64px;
   line-height: 55px;
   color: #E5C622;
   text-transform: capitalize;
@@ -2169,7 +2169,7 @@ ol {
 
 .hero-area .hero-content p {
   font-weight: 400;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 28px;
   margin-top: 20px;
   color: #e6e6e6;
@@ -2206,7 +2206,7 @@ ol {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .hero-area .hero-content h1 {
-    font-size: 40px;
+    font-size: 44px;
   }
 }
 
@@ -2233,7 +2233,7 @@ ol {
   }
 
   .hero-area .hero-content h1 {
-    font-size: 24px;
+    font-size: 32px;
     line-height: 32px;
   }
 
