@@ -1100,7 +1100,7 @@ ol {
   margin-bottom: 20px;
   line-height: 42px;
   position: relative;
-  font-weight: 700;
+  font-weight: 800;
 }
 
 .section-title p {
@@ -1160,7 +1160,9 @@ ol {
     font-size: 15px;
   }
 }
-
+.riscado {
+  text-decoration: line-through;
+}
 .section-title.align-right {
   padding: 0;
   padding-left: 600px;
@@ -2139,6 +2141,7 @@ ol {
 }
 
 .hero-area .hero-content {
+  
   border-radius: 0;
   position: relative;
   z-index: 1;
